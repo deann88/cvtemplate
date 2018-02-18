@@ -1,0 +1,28 @@
+languageCode = "en-US"
+layoutdir = "layouts"
+baseurl = "http://deann88.github.io/"
+googleAnalytics = ""
+theme = "hugo-vitae"
+publishDir = "/deann88.github.io/"
+
+[params]
+  author = "Deyan Spasov"
+  title = "Deyan Spasov's Resume"
+  description = "Deyan Spasov's Resume"
+  avatar = "profile.png"
+  email = "deyan.s.spasov@gmail.com"
+  email_full = "mailto:deyan.s.spasov@gmail.com"
+  website = "datakubism.com"
+  website_full = "https://datakubism.com"
+  github = "trending"
+  twitter = "twitter"
+  tel = "+44 0000 000000"
+  tel_full = "+440000000000"
+  google_maps = "https://www.google.bg/maps/search/zh.k.+Yavorov+/@42.6831665,23.3504484,18.79z"
+  address = "zh.k. Yavorov"
+  postcode = "1111"
+  city = "Sofia"
+  country = "Bulgaria"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []

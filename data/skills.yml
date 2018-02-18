@@ -1,0 +1,11 @@
+name: Programming Skills
+title: Data Science
+source:
+  - name: [R, VBA]
+    stars: 5
+
+  - name: [SAS, SQL, Git, Linux, Docker, AWS, GCloud, Azure]
+    stars: 4
+
+  - name: [Python, Javascript]
+    stars: 3
